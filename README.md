@@ -4,7 +4,7 @@
 
 ## A little about me!
 
-- 💻 Currently practicing web development
+- 💻 Full Stack Web Developer
 - 👯 I’m looking to collaborate with other content creators
 - 📷 Photographer
 - 🎸 Musician
